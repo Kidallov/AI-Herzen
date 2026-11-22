@@ -1,0 +1,14 @@
+Wine dataset
+============
+
+Источник: UCI Machine Learning Repository, Wine dataset.
+DOI: https://doi.org/10.24432/C5PC7J
+Лицензия исходного набора: Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+В локальном файле wine.csv сохранены 178 объектов и 13 числовых признаков.
+Исходные метки классов 1, 2, 3 преобразованы соответственно в 0, 1, 2.
+Названия столбцов приведены к читаемым ASCII-именам; числовые значения признаков не изменены.
+
+SHA-256 файла wine.csv:
+ff38724008b379e98ea37094d8ca6f9a10b938738c5478238c2629f92a02bc8b
+

@@ -1,0 +1,34 @@
+UCI Machine Learning Repository: Dry Bean Dataset
+
+Source page:
+https://archive.ics.uci.edu/dataset/602/dry+bean
+
+Dataset DOI:
+10.24432/C50S4B
+
+Original paper:
+M. Koklu and I. A. Ozkan (2020). Multiclass Classification of Dry Beans Using
+Computer Vision and Machine Learning Techniques. Computers and Electronics in
+Agriculture, 174, 105507. https://doi.org/10.1016/j.compag.2020.105507
+
+The source contains 13,611 observations of seven registered dry bean varieties
+and 16 numerical features obtained by image processing. This educational CSV
+preserves those 16 features. Its first column maps the original class names to
+integer labels in this fixed order:
+
+0 = SEKER
+1 = BARBUNYA
+2 = BOMBAY
+3 = CALI
+4 = HOROZ
+5 = SIRA
+6 = DERMASON
+
+Source format: Dry_Bean_Dataset.arff.
+Source archive SHA-256:
+0a64eff5be87f48c3dbbfc0a12a56c5d5b5167ef8e61cd45d69b3e7c7130c06f
+
+Educational CSV SHA-256:
+34f2bfc2752b55dfa6978c3edbbff81d46447a2184f4332db024972e8a3e84ef
+
+License: CC BY 4.0.
